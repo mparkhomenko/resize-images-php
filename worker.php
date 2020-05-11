@@ -32,7 +32,7 @@
                 }
             }
 
-            $lot->Images = $imagePath;
+            print_r($imagePath);
         }
     }
 ?>
